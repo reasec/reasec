@@ -9,4 +9,8 @@ A project about reactive security
 
 ## info
 
-This project has been created for creating security components that could be used in reactive architecture.
+This project aim is to create security components that could be used in reactive architectures.
+
+### projects
+
+- Certificate Pinning for Spring WebClient
